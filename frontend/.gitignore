@@ -1,2 +1,4 @@
 node_modules
 *.log
+/.editorconfig
+/package-lock.json
